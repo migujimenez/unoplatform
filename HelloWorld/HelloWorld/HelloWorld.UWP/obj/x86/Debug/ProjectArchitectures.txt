@@ -1,0 +1,1 @@
+C:\MyApps\unoplatform\HelloWorld\HelloWorld\HelloWorld.UWP\HelloWorld.UWP.csproj;x86
